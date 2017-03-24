@@ -1,0 +1,4 @@
+git add .
+git commit -m 'first_commit'
+git remote add origin https://github.com/wsg00d/tool.git
+git push origin master
