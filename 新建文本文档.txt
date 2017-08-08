@@ -1,4 +1,4 @@
 git clone https://github.com/wsg00d/tool.git
-git add .
+git add .（git add --all或制定文件名)
 git commit -m 'first_commit'
 git push
