@@ -1,5 +1,5 @@
 #coding=utf-8
-#author:wsg00d!
+#author:wsg00d
 
 import requests
 import time
