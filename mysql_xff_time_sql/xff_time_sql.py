@@ -1,3 +1,6 @@
+#coding:utf-8
+#author:wsg00d
+
 import requests,string
 import time
 
