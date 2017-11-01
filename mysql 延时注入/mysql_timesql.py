@@ -1,3 +1,6 @@
+#coding=utf-8
+#author:wsg00d!
+
 import requests
 import time
 payload='1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ.!@#$+=-'
