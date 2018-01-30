@@ -5,6 +5,12 @@ import sys
 from selenium import webdriver
 reload(sys)
 sys.setdefaultencoding('utf8')
+
+‘’‘
+爬取e春秋平台上的所有实验指导书，
+以截图方式进行保存
+'''
+
 cookies={
 'ci_session':'c9422c4dbef501ef4ad310c6ac4944bfacd4ccd4'
 }
