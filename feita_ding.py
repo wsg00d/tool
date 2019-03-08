@@ -8,9 +8,9 @@ f=open('idno.txt','r')
 incidentserialno1 = f.read()
 f.close()
 
-DING_URL = "https://oapi.dingtalk.com/robot/send?access_token=a84e9a7396b8a8dbfd69c7463511d25dfea9f969a18bb4845af8c894a091ab4e"
+DING_URL = "https://oapi.dingtalk.com/robot/send?access_token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"}
-data = {'ajax': 1, 'username': 'wangsong', 'secretkey': 'gRvsU99bQgcMmcmX'}
+data = {'ajax': 1, 'username': 'wangsong', 'secretkey': 'xxxxxxxxxx'}
 url1 = 'https://10.161.1.254/logincheck'
 url2='https://10.161.1.254/p/logs/ips/json/?filter=%5B%5D&serial_no=FGT5HD3917800776'
 url3='https://10.161.1.254/logout'
